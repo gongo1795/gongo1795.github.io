@@ -1,15 +1,60 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%" height="auto"/>
-# About me❤️
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=200&section=header&text=안녕하세요!&fontSize=70&animation=fadeIn" />
+</div>
 
-• 이름: 윤영옥
-• 나이: 20살 (만 19 세)
-• 성별: 여
-• 한신대학교 25학번
+<div align="center">
+  
+# 👩‍💻 윤영옥 (Youngok Yoon) 👩‍💻
+### 한신대학교 재학생
+  
+</div>
 
+<br>
 
+## 🚀 기술 스택 (Skills)
+<!-- 여기에 자신의 기술 스택을 아이콘으로 추가해보세요. 예: https://shields.io/ -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <br>
+  <!-- 추가하고 싶은 다른 기술 뱃지를 여기에 넣으세요 -->
+</div>
 
-<p align="center">
+<br>
 
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
+## 🌱 학습 중인 내용 (Currently Learning)
+- **[학습 주제 1]:** [여기에 학습 중인 내용에 대한 설명을 간략하게 적어주세요.]
+- **[학습 주제 2]:** [예: 알고리즘, 자료구조, 웹 프레임워크 등]
+- **[학습 주제 3]:** [관심 있는 분야나 공부하고 있는 기술을 자유롭게 추가하세요.]
 
-</p>
+<br>
+
+## 💡 프로젝트 (Projects)
+<!-- 진행했거나 진행 중인 프로젝트가 있다면 여기에 추가하세요. -->
+### 1. [프로젝트 이름 1]
+- **설명:** [프로젝트에 대한 간단한 설명을 입력하세요.]
+- **역할:** [자신이 맡은 역할을 구체적으로 작성하세요.]
+- **기술 스택:** `[사용한 기술]` `[사용한 기술]`
+- **링크:** [프로젝트 Repository 또는 배포 링크 (선택 사항)]
+
+### 2. [프로젝트 이름 2]
+- **설명:** [프로젝트에 대한 간단한 설명을 입력하세요.]
+- **역할:** [자신이 맡은 역할을 구체적으로 작성하세요.]
+- **기술 스택:** `[사용한 기술]` `[사용한 기술]`
+- **링크:** [프로젝트 Repository 또는 배포 링크 (선택 사항)]
+
+<br>
+
+## 📫 연락처 (Contact)
+<!-- 다른 사람들이 자신에게 연락할 수 있는 방법을 추가하세요. -->
+- **Email:** [이메일 주소를 입력하세요]
+- **GitHub:** [https://github.com/your-username](https://github.com/gongo1795)
+- **Blog:** [개인 블로그 주소 (선택 사항)]
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=footer" />
+</div>
