@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "윤영옥 / Site Title"
+title                    : "영옥이 사이트"
 title_separator          : "-"
 name                     : &name "윤영옥"
 description              : &description "윤영옥's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
