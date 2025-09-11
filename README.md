@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=200&section=header&text=안녕하세요!&fontSize=70&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:4682B4,100:AFEEEE&height=200&section=header&text=안녕하세요!&fontSize=70&animation=fadeIn" />
 </div>
 
 <div align="center">
@@ -55,5 +55,5 @@
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:4682B4,100:AFEEEE&height=100&section=footer" />
 </div>
