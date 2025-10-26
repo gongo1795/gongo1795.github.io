@@ -4,50 +4,42 @@ title: "About"
 author_profile: true
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+## 윤영옥의 블로그
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+이 공간을 방문해주셔서 감사합니다. 이곳에서 저의 경험, 관심사, 그리고 생각들을 공유하고자 합니다.
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+---
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+### 자기 소개
 
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
+[<성장과정>
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+저의 성장과정은 한 마디로 무지개로 표현할 수 있습니다. 초중고 과정을 거치며 다양한 분야에 꿈을 가지고 수많은 도전도 하고 포기도 해 봤지만, 결국 그 모든 과정이 제 성장에 있어서는 참 아름다웠기 때문입니다. 제가 고등학생 때는 미용이라는 한 가지 분야에 꽂혀 있었습니다. 때문에 실기 연습에 매진하고 자격증까지 딴 경험이 있습니다. 그러나 미용과 적성이 맞지 않아 미용을 접게 되었고, 꿈을 잃은 허탈함 때문에 방황하였습니다. 그럼에도 불구하고 저는 그동안 놓고 있던 학업에 다시 열중하였고, 평균 내신을  2등급까지 끌어 올려 대입에 성공하여 자유전공학부에 입학하게 되었습니다. 그리고 지금은 aisw학을 준비하며 새로운 꿈을 찾아 도전 중입니다.
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+<성격 및 장단점 작성>
 
-Create content & metadata
-------
-For site content, there is one Markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a Markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each Markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+저는 성격이 무뚝뚝하고 털털한 편입니다. 그러나 좋아하는 사람들과 있으면 애교도 있고 웃음도 많은 편입니다. 소심하지만 소극적인 편은 아닙니다. 때로는 흥미가 있거나 호기심이 생기는 일에는 적극적으로 도전해 보는 편입니다. 저의 장점은 기분이나 감정의 요동이 크지 않은 것입니다. 깊은 골에 빠지지 않고 평탄함을 유지하려는 성격 덕분에 무슨 일이 있어도 차분함을 유지할 수 있습니다. 저의 단점은 큰 흥미가 동반하지 않으면 일을 수행하고자 하는 적극성이 떨어지는 것입니다. 특히 싫어하는 일은 끝까지 미루는 경우도 있습니다. 그러나 이러한 저의 단점을 파악하고 흥미가 없는 일을 할 때면 좋아하는 음악을 들으며 병행하거나, 좋아하는 공간에 가서 일을 하는 등 환경을 바꿔가며 일을 수행할 수 있도록 노력하고 있습니다.]
 
-**Markdown generator**
+<br/>
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual Markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the Markdown files, then commit and push them to the GitHub repository.
+### 🚀 주요 관심 분야
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and Markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+[현재 가장 흥미를 느끼고 있거나 깊이 연구하고 있는 분야에 대해 작성해주세요. 기술 스택, 연구 주제, 취미 등 무엇이든 좋습니다.]
 
-Example: editing a Markdown file for a talk
-![Editing a Markdown file for a talk](/images/editing-talk.png)
+*   **관심 분야 1**: [내용]
+*   **관심 분야 2**: [내용]
+*   **관심 분야 3**: [내용]
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+<br/>
+
+### 💻 현재 하고 있는 일
+
+[지금 하고 있는 업무, 사이드 프로젝트, 공부하고 있는 내용 등을 자유롭게 기록해주세요. 이 부분은 주기적으로 업데이트하면 좋습니다.]
+
+<br/>
+
+### 📫 연락처
+
+저에 대해 더 궁금한 점이 있거나 이야기를 나누고 싶다면, 왼쪽의 프로필 정보나 아래 이메일로 언제든지 연락 주세요.
+
+*   **Email**: [gongo1795@hs.ac.kr](mailto:gongo1795@hs.ac.kr)
