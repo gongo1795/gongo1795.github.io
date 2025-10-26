@@ -1,14 +1,6 @@
 ---
-# This file redirects the root URL to the /about/ page.
-permalink: /
+# Redirects the root URL (/) to the /about/ page using the jekyll-redirect-from plugin.
+redirect_to:
+  - /about/
 ---
-<!DOCTYPE html>
-<html>
-<head>
-  <meta http-equiv="refresh" content="0; url={{ site.baseurl }}/about/">
-  <link rel="canonical" href="{{ site.baseurl }}/about/" />
-</head>
-<body>
-  <p>Redirecting to the <a href="{{ site.baseurl }}/about/">About page</a>...</p>
-</body>
-</html>
+
