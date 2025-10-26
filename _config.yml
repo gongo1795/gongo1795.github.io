@@ -25,11 +25,11 @@ author:
   # Biographic information
   avatar           : "me.jpeg"
   name             : "윤영옥"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  pronouns         : "she"
+  bio              : "안녕하세요. 저는 윤영옥입니다."
   location         : "경기도 파주시"
   employer         : "한신대학교"
-  uri              : # URL
+  uri              : "https://github.com/gongo1795/gongo1795"
   email            : "gongo1795@hs.ac.kr" 
 
   # Academic websites
