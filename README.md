@@ -25,6 +25,19 @@
 
 <br>
 
+## 📊 GitHub 통계 (GitHub Stats)
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=gongo1795&show_icons=true&theme=radical" alt="gongo1795's GitHub stats"/>
+  </a>
+  <br>
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gongo1795&theme=radical" alt="gongo1795's GitHub streak"/>
+  </a>
+</div>
+
+<br>
+
 ## 🌱 학습 중인 내용 (Currently Learning)
 - **[웹프로그래밍]:** HTML5, CSS3, 자바스크립트 등
 - **[문제해결프로그래밍]:** 파이션, 알고리즘, 프로그래밍 등
