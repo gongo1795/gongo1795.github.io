@@ -43,4 +43,3 @@ author_profile: true
 저에 대해 더 궁금한 점이 있거나 이야기를 나누고 싶다면, 왼쪽의 프로필 정보나 아래 이메일로 언제든지 연락 주세요.
 
 *   **Email**: [gongo1795@hs.ac.kr](mailto:gongo1795@hs.ac.kr)
-
